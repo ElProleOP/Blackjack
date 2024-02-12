@@ -3,9 +3,11 @@
 Python Terminal BlackJack game
 
 ## Blackjack Game Instructions
+
 The game starts by creating a deck of cards and dealing two cards each to the player and dealer.
 The player can see one of the dealer's cards and all of their own cards.
 The player then has the option to "Hit" or "Stand":
+
 ----
 - If the player hits, they get another card added to their hand.
 - If the player stands, it becomes the dealer's turn.
@@ -13,6 +15,7 @@ The player then has the option to "Hit" or "Stand":
 
 On the dealer's turn:
 The dealer must hit until their hand value is 17 or higher.
+
 ----
 - If the dealer busts, the player wins.
 - Once both the player and dealer stand, the winner is determined:
@@ -22,6 +25,7 @@ The dealer must hit until their hand value is 17 or higher.
 
 After each round, the player can choose to play again or quit the game.
 So in summary:
+
 ----
 - Try to get as close to 21 without going over
 - Decide whether to hit or stand each turn
